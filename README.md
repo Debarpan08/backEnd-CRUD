@@ -1,8 +1,3 @@
-# Build a REST API with Node JS and Express
-
-![REST API](https://i.ibb.co/7GWCCbp/Screenshot-2020-07-12-at-08-30-32.png)
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is a repo that I had used to create a Backend CRUD API using Node.js and Express.js with the help of Adrian Hajdin, my one of the favourite digital teachers 
 
 
